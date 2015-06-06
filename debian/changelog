@@ -1,4 +1,4 @@
-ktp-send-file (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+ktp-send-file (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Harald Sitter ]
   * KDE Frameworks 5 port
@@ -6,7 +6,10 @@ ktp-send-file (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 22:39:09 -0700
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:05:02 +0200
 
 ktp-send-file (0.9.0-0ubuntu1) vivid; urgency=medium
 
