@@ -1,4 +1,4 @@
-ktp-send-file (15.08.1-1~) UNRELEASED; urgency=medium
+ktp-send-file (15.08.2-1~) UNRELEASED; urgency=medium
 
   [ Diane Trout ]
   * New upstream release.
@@ -12,8 +12,9 @@ ktp-send-file (15.08.1-1~) UNRELEASED; urgency=medium
   * New upstream release (15.08.0).
   * New upstream release (15.08.1).
   * Bump Standards-Version to 3.9.6.
+  * New upstream release (15.08.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Sep 2015 19:39:29 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Oct 2015 15:18:02 +0200
 
 ktp-send-file (0.8.1-1) unstable; urgency=medium
 
