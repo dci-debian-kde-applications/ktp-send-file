@@ -1,7 +1,7 @@
 Source: ktp-send-file
 Section: kde
 Priority: optional
-Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Diane Trout <diane@ghic.org>,
            Michał Zając <quintasan@kubuntu.org>,
            Mark Purcell <msp@debian.org>
@@ -12,19 +12,20 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5i18n-dev (>= 5.0~),
                libkf5iconthemes-dev (>= 5.0~),
                libkf5kcmutils-dev (>= 5.0~),
+               libkf5wallet-dev,
                libktp-dev,
+               libtelepathy-logger-qt-dev,
+               libtelepathy-qt5-dev (>= 0.9.3),
                pkg-kde-tools (>= 0.9),
                qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
-Homepage: https://projects.kde.org/projects/extragear/network/telepathy/ktp-send-file
+Homepage: https://projects.kde.org/projects/kde/kdenetwork/ktp-send-file
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kde-telepathy/ktp-send-file.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/kde-telepathy/ktp-send-file.git
 
 Package: kde-telepathy-send-file
 Architecture: any
-Depends: kde-telepathy-data (>= ${source:Upstream-Version}),
-         ${misc:Depends},
-         ${shlibs:Depends}
+Depends: kde-telepathy-data (>= 0.8.1), ${misc:Depends}, ${shlibs:Depends}
 Recommends: kde-telepathy
 Enhances: dolphin, konqueror
 Description: KDE Telepathy dolphin/konqueror integration plugin
