@@ -34,12 +34,3 @@ Description: KDE Telepathy dolphin/konqueror integration plugin
  .
  This package is not meant to be used standalone. It is recommended
  to install the kde-telepathy metapackage instead.
-
-Package: kde-telepathy-send-file-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: kde-telepathy-send-file (= ${binary:Version}), ${misc:Depends}
-Description: KDE Telepathy dolphin/konqueror integration plugin - debug symbols
- This package provides the debug symbols for the KDE Telepathy send file
- plugin.
