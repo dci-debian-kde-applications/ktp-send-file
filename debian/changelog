@@ -1,8 +1,8 @@
-ktp-send-file (15.12.1-2~) UNRELEASED; urgency=medium
+ktp-send-file (15.12.1-2) experimental; urgency=medium
 
   * Bump build dependencies.
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 08:28:06 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 08:31:19 +0100
 
 ktp-send-file (15.12.1-1) experimental; urgency=medium
 
