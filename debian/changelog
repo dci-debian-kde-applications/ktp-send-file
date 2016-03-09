@@ -1,10 +1,10 @@
-ktp-send-file (4:15.12.1-2ubuntu1) UNRELEASED; urgency=medium
+ktp-send-file (4:15.12.1-2ubuntu1) xenial; urgency=medium
 
   * Merged with Debian
     - Added epoch used in Kubuntu
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Mon, 15 Feb 2016 22:31:56 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:22:13 +0100
 
 ktp-send-file (15.12.1-2) experimental; urgency=medium
 
