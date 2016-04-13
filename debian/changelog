@@ -1,3 +1,12 @@
+ktp-send-file (15.12.3-1~1.gbpd6c72b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d6c72b558a4f975bfd4d97ca8b6f190be6dc0df6 **
+
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:08:55 +0200
+
 ktp-send-file (15.08.3-1) unstable; urgency=medium
 
   * New upstream release.
