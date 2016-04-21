@@ -1,11 +1,12 @@
-ktp-send-file (15.12.3-1~1.gbpd6c72b) UNRELEASED; urgency=medium
+ktp-send-file (16.04.0-1~1.gbpe330fe) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @d6c72b558a4f975bfd4d97ca8b6f190be6dc0df6 **
+  ** SNAPSHOT build @e330fe26d463353fb4cb062a1531052c833c13fa **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
+  * Add a .gitattributes file to use dpkg-mergechangelogs
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:08:55 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 03:08:10 +0200
 
 ktp-send-file (15.12.1-2) experimental; urgency=medium
 
