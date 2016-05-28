@@ -1,13 +1,11 @@
-ktp-send-file (16.04.1-1~1.gbp84d1a7) UNRELEASED; urgency=medium
+ktp-send-file (16.04.1-1) experimental; urgency=medium
 
-  ** SNAPSHOT build @84d1a7928ebb66b732a11a4450dae8376dc6ae93 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
   * Add a .gitattributes file to use dpkg-mergechangelogs
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:08:12 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 02:13:01 +0200
 
 ktp-send-file (15.12.1-2) experimental; urgency=medium
 
