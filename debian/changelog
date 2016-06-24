@@ -1,10 +1,8 @@
-ktp-send-file (16.04.2-1~1.gbp8f07cd) UNRELEASED; urgency=medium
+ktp-send-file (16.04.2-1) experimental; urgency=medium
 
-  ** SNAPSHOT build @8f07cdfb3176e903b49552ebe71bd6f2830eb943 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 03:08:09 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 24 Jun 2016 09:42:05 +0200
 
 ktp-send-file (16.04.1-1) experimental; urgency=medium
 
