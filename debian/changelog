@@ -1,15 +1,6 @@
 ktp-send-file (17.08.1-1~) UNRELEASED; urgency=medium
 
-  [ Maximiliano Curia ]
-  ** SNAPSHOT build @42a4eae9c4306836dfdde74d1e69e45cad0c8fb5 **
-
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
   * New upstream release (17.08.1).
-
-  [ Automatic packaging ]
-  * Update changelog for 16.08.1-1~1.gbp42a4ea release
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 11 Sep 2017 16:29:13 +0200
 
