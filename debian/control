@@ -26,6 +26,8 @@ Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/ktp-send-file.g
 Package: kde-telepathy-send-file
 Architecture: any
 Depends: kde-telepathy-data (>= 0.8.1), ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Recommends: kde-telepathy
 Enhances: dolphin, konqueror
 Description: KDE Telepathy dolphin/konqueror integration plugin
