@@ -6,10 +6,10 @@ MimeType=all/allfiles;
 
 [Desktop Action sendFile]
 Name=Send file to IM contact
-Name[ast]=Unviar ficheru al contautu
+Name[ast]=Unviar ficheru a contautu MI
 Name[bs]=Slanje datoteke na IM kontakt
-Name[ca]=Envia fitxer a contacte de MI
-Name[ca@valencia]=Envia fitxer a contacte de MI
+Name[ca]=Envia el fitxer a un contacte de la MI
+Name[ca@valencia]=Envia el fitxer a un contacte de la MI
 Name[cs]=Poslat soubor kontaktu na IM
 Name[da]=Send fil til IM-kontakt
 Name[de]=Datei an einen Instant-Messenger-Kontakt senden
@@ -33,6 +33,7 @@ Name[mr]=आयएम संपर्काकडे फाईल पाठव�
 Name[nb]=Send fil til lynmeldingskontakt
 Name[nds]=En KN-Kontakt en Datei tostüern
 Name[nl]=Bestand naar IM-contactpersoon verzenden
+Name[nn]=Send fil til lynmeldingskontakt
 Name[pa]=IM ਸੰਪਰਕ ਨੂੰ ਫਾਇਲ ਭੇਜੋ
 Name[pl]=Wyślij plik do kontaktu komunikatora internetowego
 Name[pt]=Enviar o ficheiro para o contacto MI
